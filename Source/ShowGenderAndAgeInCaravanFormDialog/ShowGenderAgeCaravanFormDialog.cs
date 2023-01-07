@@ -16,7 +16,7 @@ namespace ShowGenderAndAgeInCaravanFormDialog
 
         static ShowGenderAgeCaravanFormDialogMod()
         {
-            harmonyInstance = new Harmony("arl85.CorpseInfo");
+            harmonyInstance = new Harmony("arl85.ShowGenderAndAgeInCaravanFormDialog");
             harmonyInstance.PatchAll();
         }
 
