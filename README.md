@@ -1,5 +1,5 @@
 [![Version](https://img.shields.io/badge/Rimworld-1.4-green.svg)](http://rimworldgame.com/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/angelolocritani/Rimworld-ShowGenderAgeCaravanFormDialog)](https://github.com/angelolocritani/Rimworld-ShowGenderAgeCaravanFormDialog/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/angelolocritani/Rimworld-ShowGenderAndAgeInCaravanFormDialog)](https://github.com/angelolocritani/Rimworld-ShowGenderAndAgeInCaravanFormDialog/releases/latest)
 # Show gender/age in caravan form dialog
 
 ![Rimworld-ShowGenderAndAgeInCaravanFormDialogPreview](https://i.imgur.com/xSZSreH.png)
