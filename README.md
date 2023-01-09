@@ -6,6 +6,8 @@
 
 A mod that adds gender/age in caravan form dialog, like when trading
 
+Note: this mod is now included in [XNDTinyTweaks >= 1.4.2](https://github.com/emipa606/XNDTinyTweaks/releases/latest)
+
 
 ---
 
