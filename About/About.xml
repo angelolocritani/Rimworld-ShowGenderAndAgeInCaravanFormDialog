@@ -7,6 +7,7 @@
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>Show gender/age in caravan form dialog, like when trading</description>
 	<modDependencies>
